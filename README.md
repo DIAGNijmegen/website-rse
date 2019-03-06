@@ -1,2 +1,3 @@
-# website-rse
-RSE team website
+# RSE website
+
+This is the website of the RSE team.
