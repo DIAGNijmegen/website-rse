@@ -231,14 +231,61 @@ need to make use of high-power general purpose graphic processing units (GPGPUs)
 a centralized pool of GPGPUs. It is used to create state-of-the-art tools
 for detecting and classifying illnesses and quantify extent, and possible
 treatment options.</p>
+<h2>Capacity/Activity</h2>
+<table>
+<thead>
+<tr>
+<th>Resource</th>
+<th>Value</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Compute nodes</td>
+<td>30</td>
+</tr>
+<tr>
+<td>GPUs</td>
+<td>80</td>
+</tr>
+<tr>
+<td>CPUs</td>
+<td></td>
+</tr>
+<tr>
+<td>Total memory</td>
+<td></td>
+</tr>
+<tr>
+<td>Active users/month</td>
+<td>40</td>
+</tr>
+<tr>
+<td>Experiments/month</td>
+<td></td>
+</tr>
+</tbody>
+</table>
 <h2>Architecture</h2>
 <p>SOL uses offers consists of a compute cluster of 80 GPUs (mainly NVIDIA GTX1080Ti
 and RTX2080Ti cards), a dedicated 500 TB storage server for serving data to
 deep learning compute nodes via 20 GBit networking, and a Prometheus/Grafana
 based monitoring solution to monitor the activity and health of the cluster. </p>
 <p><img alt="sol-cluster-architecture" src="https://rse.diagnijmegen.nl/images/projects/sol-architecture.png" title="SOL's architecture overview"></p>
-<p>The cluster uses Slurm as job scheduler and docker to encapsulate experiments and
-isolate the software stacks of different experiments from each other.</p>
+<p>Users log in to job nodes directly to either schedule an experiment or to
+interactively interact with a scheduled experiment. We use slurm as an automated
+job queue. Experiments are encapsialted in docker containers to isolate their 
+software stacks from the system software stack. This allows researchers to try
+out new libraries and software without the need to install new software on the
+base systems.</p>
+<h2>Future</h2>
+<p>The SOL compute cluster runs reliably for 1.5 years now. The cluster was 
+steadily growing over that period and it will reach its maximum design capacity
+of 100 GPUs this year. After this, we will consolidate and upgrade old hardware
+and to remove non-stardard components and compute nodes from the cluster.</p>
+<p>In addition to this, the compute cluster will be rolled out as a service to 
+other departments of the hospital and we will start offering compute capabilites
+built around SOL to other departments of Radboud University in 2019.</p>
     </div>
 
     <h2>People</h2>
