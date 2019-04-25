@@ -46,6 +46,15 @@
 
     <!-- lazyloader for images -->
     <script src="https://rse.diagnijmegen.nl/theme/js/lazysizes.min.js" async=""></script>
+    <!-- Add support for lazy loading backround images -->
+    <script>
+    document.addEventListener('lazybeforeunveil', function(e){
+    var bg = e.target.getAttribute('data-bg');
+        if(bg){
+            e.target.style.backgroundImage = 'url(' + bg + ')';
+        }
+    });
+    </script>
 
 </head>
 
@@ -258,7 +267,7 @@
 
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Bram van Ginneken">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Bram van Ginneken">
     <h3 class="person-name"> Bram van Ginneken</h3>
 </div>
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">

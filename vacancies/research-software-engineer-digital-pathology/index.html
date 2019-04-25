@@ -46,6 +46,15 @@
 
     <!-- lazyloader for images -->
     <script src="https://rse.diagnijmegen.nl/theme/js/lazysizes.min.js" async=""></script>
+    <!-- Add support for lazy loading backround images -->
+    <script>
+    document.addEventListener('lazybeforeunveil', function(e){
+    var bg = e.target.getAttribute('data-bg');
+        if(bg){
+            e.target.style.backgroundImage = 'url(' + bg + ')';
+        }
+    });
+    </script>
 
 </head>
 
@@ -239,17 +248,17 @@
 
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Jeroen_van_der_Laak.jpg" class="img-thumbnail rounded-circle" alt="Jeroen van der Laak">
+    <img src="https://rse.diagnijmegen.nl/images/people/Jeroen_van_der_Laak.jpg" class="img-thumbnail lazyload rounded-circle" alt="Jeroen van der Laak">
     <h3 class="person-name">Jeroen van der Laak</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Geert_Litjens.jpg" class="img-thumbnail rounded-circle" alt=" Geert Litjens">
+    <img src="https://rse.diagnijmegen.nl/images/people/Geert_Litjens.jpg" class="img-thumbnail lazyload rounded-circle" alt=" Geert Litjens">
     <h3 class="person-name"> Geert Litjens</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Francesco_Ciompi.jpg" class="img-thumbnail rounded-circle" alt=" Francesco Ciompi">
+    <img src="https://rse.diagnijmegen.nl/images/people/Francesco_Ciompi.jpg" class="img-thumbnail lazyload rounded-circle" alt=" Francesco Ciompi">
     <h3 class="person-name"> Francesco Ciompi</h3>
 </div>
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">

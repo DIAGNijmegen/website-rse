@@ -46,6 +46,15 @@
 
     <!-- lazyloader for images -->
     <script src="https://rse.diagnijmegen.nl/theme/js/lazysizes.min.js" async=""></script>
+    <!-- Add support for lazy loading backround images -->
+    <script>
+    document.addEventListener('lazybeforeunveil', function(e){
+    var bg = e.target.getAttribute('data-bg');
+        if(bg){
+            e.target.style.backgroundImage = 'url(' + bg + ')';
+        }
+    });
+    </script>
 
 </head>
 
@@ -291,32 +300,32 @@ built around SOL to other departments of Radboud University in 2019.</p>
 
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Sil van de Leemput">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Sil van de Leemput">
     <h3 class="person-name"> Sil van de Leemput</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Thomas_de_Bel.jpg" class="img-thumbnail rounded-circle" alt=" Thomas de Bel">
+    <img src="https://rse.diagnijmegen.nl/images/people/Thomas_de_Bel.jpg" class="img-thumbnail lazyload rounded-circle" alt=" Thomas de Bel">
     <h3 class="person-name"> Thomas de Bel</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Erdi Calli">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Erdi Calli">
     <h3 class="person-name"> Erdi Calli</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Matin Hosseinzadeh">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Matin Hosseinzadeh">
     <h3 class="person-name"> Matin Hosseinzadeh</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Xie Weiyi">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Xie Weiyi">
     <h3 class="person-name"> Xie Weiyi</h3>
 </div>
 
 <div class="col-xl-2 col-lg-3 col-md-4 col-sm-6 col-6 person">
-    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail rounded-circle" alt=" Patrick Brand">
+    <img src="https://rse.diagnijmegen.nl/images/people/Person.png" class="img-thumbnail lazyload rounded-circle" alt=" Patrick Brand">
     <h3 class="person-name"> Patrick Brand</h3>
 </div>        </div>
     </div>
