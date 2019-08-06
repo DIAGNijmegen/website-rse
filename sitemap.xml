@@ -167,10 +167,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/boom12a/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/hump18/</loc>
     <priority>1.0</priority>
   </url>
@@ -348,10 +344,6 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/schr18d/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/grin17/</loc>
     <priority>1.0</priority>
   </url>
   <url>
