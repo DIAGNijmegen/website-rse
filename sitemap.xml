@@ -3,6 +3,10 @@
 
 
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/about/</loc>
     <priority>1.0</priority>
   </url>
@@ -28,6 +32,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/ritc15a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/pate17a/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -80,6 +88,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/calendar/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem17/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -183,11 +195,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/meij18b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/ginn14/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/lafe08/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18c/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -220,6 +240,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/stoy18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/pate19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -284,6 +308,14 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/members/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem19b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -419,6 +451,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/</loc>
     <priority>1.0</priority>
   </url>
@@ -451,11 +487,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/meij17a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/lass15/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/scho13b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/members/sil-van-de-leemput/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -472,6 +516,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/jaco15/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18b/</loc>
     <priority>1.0</priority>
   </url>
   <url>
