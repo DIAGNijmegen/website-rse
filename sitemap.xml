@@ -15,6 +15,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/software/asap/</loc>
     <priority>1.0</priority>
   </url>
@@ -167,6 +171,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/scho14d/</loc>
     <priority>1.0</priority>
   </url>
@@ -196,6 +204,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/meij18b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/altu20/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -267,6 +279,10 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/grob19b/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/ares18/</loc>
     <priority>1.0</priority>
   </url>
@@ -291,7 +307,15 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv19a/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/schr18/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv19/</loc>
     <priority>1.0</priority>
   </url>
   <url>
