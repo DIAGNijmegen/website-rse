@@ -265,14 +265,18 @@
             
 
 <div class="btn-group btn-group-toggle year-button-group" data-toggle="buttons">
-    <input type="radio" name="year-selection" data-year="2013" id="input_2013" autocomplete="off" style="display: none">
-    <label class="btn btn-link" for="input_2013", style="color:grey">
-        2013
+    <input type="radio" name="year-selection" data-year="all" id="input_all" autocomplete="off" style="display: none">
+    <label class="btn btn-link" for="input_all", style="color:grey">
+        all
     </label>
-    <input type="radio" name="year-selection" data-year="2012 and before" id="input_2012 and before" autocomplete="off" style="display: none">
-    <label class="btn btn-link" for="input_2012 and before", style="color:grey">
-        2012 and before
-    </label>
+        <input type="radio" name="year-selection" data-year="2013" id="input_2013" autocomplete="off" style="display: none">
+        <label class="btn btn-link" for="input_2013", style="color:grey">
+            2013
+        </label>
+        <input type="radio" name="year-selection" data-year="2012 and before" id="input_2012 and before" autocomplete="off" style="display: none">
+        <label class="btn btn-link" for="input_2012 and before", style="color:grey">
+            2012 and before
+        </label>
 </div>
 
         <div data-year="2013" class="publication-year">
@@ -325,23 +329,6 @@
                                 <h3>Abstracts</h3>
                             <ol>
 <li>
-     R. van den Boom, M. Oei, L. Oostveen, S. Lafebre, B. van Ginneken, R. Manniesing and M. Prokop.
-   
-    "Effect of radiation exposure on quantitative evaluation of cerebral CT perfusion maps: results from a hybrid digital phantom",
-   
-        <i>European Congress of Radiology, </i>
-   
-        2012.
-   
-    <small>
-        <a href=/publications/boom12a>Abstract</a>
-
-    
-
-    </small>
-</li>
-				
-<li>
      M. Oei, R. van den Boom, L. Oostveen, S. Lafebre, E. Smit, B. van Ginneken, R. Manniesing and M. Prokop.
    
     "Hybrid digital phantom for optimizing data acquisition strategies in CT perfusion",
@@ -352,6 +339,23 @@
    
     <small>
         <a href=/publications/oei12>Abstract</a>
+
+    
+
+    </small>
+</li>
+				
+<li>
+     R. van den Boom, M. Oei, L. Oostveen, S. Lafebre, B. van Ginneken, R. Manniesing and M. Prokop.
+   
+    "Effect of radiation exposure on quantitative evaluation of cerebral CT perfusion maps: results from a hybrid digital phantom",
+   
+        <i>European Congress of Radiology, </i>
+   
+        2012.
+   
+    <small>
+        <a href=/publications/boom12a>Abstract</a>
 
     
 
@@ -395,24 +399,29 @@
         var year = this.dataset.year; 
         var yearsplit = year.split(' ')
         for(var b = 0; b < year_blocks.length; b++) {
-            if (yearsplit[yearsplit.length-1] == 'before'){
-                if(year_blocks[b].dataset.year <= parseInt(yearsplit[0])) {
-                    year_blocks[b].style.display = 'block';
+            if (year == 'all'){
+                year_blocks[b].style.display = 'block';
+            }
+            else{
+                if (yearsplit[yearsplit.length-1] == 'before'){
+                    if(year_blocks[b].dataset.year <= parseInt(yearsplit[0])) {
+                        year_blocks[b].style.display = 'block';
+                    } else {
+                        year_blocks[b].style.display = 'none';
+                    }
+        
                 } else {
-                    year_blocks[b].style.display = 'none';
-                }
-    
-            } else {
-                if(year_blocks[b].dataset.year == year) {
-                    year_blocks[b].style.display = 'block';
-                } else {
-                    year_blocks[b].style.display = 'none';
+                    if(year_blocks[b].dataset.year == year) {
+                        year_blocks[b].style.display = 'block';
+                    } else {
+                        year_blocks[b].style.display = 'none';
+                    }
                 }
             }
         }
     });
     }
-    buttons[0].click()
+    buttons[1].click()
 </script>    </div>
     </main>
 
