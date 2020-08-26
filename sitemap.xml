@@ -3,6 +3,10 @@
 
 
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/2012-and-before/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2012-and-before/</loc>
     <priority>1.0</priority>
   </url>
@@ -11,15 +15,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2012-and-before/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2013/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2013/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -31,11 +27,15 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2014/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/2013/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/2014/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2014/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -55,7 +55,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2016/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -63,7 +63,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2016/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2016/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -87,15 +87,11 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2018/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2018/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/2018/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -103,15 +99,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2019/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2018/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -119,19 +107,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2019/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/2019/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/2019/</loc>
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2020/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2019/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -143,7 +131,19 @@
     <priority>1.0</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/2020/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/2020/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2020/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/2020/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -159,7 +159,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/no-year-headings/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -167,19 +167,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/no-year-headings/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -187,7 +175,19 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/no-year-headings/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/no-year-headings/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/no-year-headings/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/no-year-headings/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -195,7 +195,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/no-year-headings/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
