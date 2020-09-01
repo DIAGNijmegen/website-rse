@@ -3,155 +3,11 @@
 
 
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2012-and-before/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/2012-and-before/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/2013/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2013/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/2013/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/2014/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2014/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2015/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2015/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2016/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2016/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2016/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2017/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2017/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2017/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2018/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2019/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2020/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/2020/</loc>
+    <loc>https://rse.diagnijmegen.nl/404/</loc>
     <priority>1.0</priority>
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/about/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/no-year-headings/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/no-year-headings/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -183,10 +39,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/home/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/software/grand-challenge/</loc>
     <priority>1.0</priority>
   </url>
@@ -196,6 +48,10 @@
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/members/harm-van-zeeland/</loc>
+    <priority>1.0</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/home/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -227,10 +83,6 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/404/</loc>
-    <priority>1.0</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/members/paul-konstantin-gerke/</loc>
     <priority>1.0</priority>
   </url>
@@ -247,7 +99,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-webapps/</loc>
+    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-digital-pathology/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -255,7 +107,7 @@
     <priority>1.0</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-digital-pathology/</loc>
+    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-webapps/</loc>
     <priority>1.0</priority>
   </url>
   <url>
@@ -304,10 +156,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/2013/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/2013/</loc>
     <priority>0.6</priority>
   </url>
@@ -316,7 +164,15 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/2013/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/2013/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/2014/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -328,7 +184,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2014/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2015/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -340,7 +196,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2015/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2016/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -356,15 +212,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2016/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2017/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2017/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2017/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -372,7 +220,15 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2017/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2017/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/2017/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2018/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -384,10 +240,6 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2018/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/2018/</loc>
     <priority>0.6</priority>
   </url>
@@ -396,7 +248,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2019/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2019/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -404,27 +256,19 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/2019/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2019/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2019/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/2020/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2020/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/2020/</loc>
     <priority>0.6</priority>
   </url>
   <url>
     <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/2020/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2020/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -436,271 +280,15 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/2020/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/2020/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem15/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/2020/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/about/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/no-year-headings/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco10f/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco19a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr20a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/software/asap/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr20/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lass12a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/less20/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco13/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco14a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ritc15a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/pate17a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ciom14a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco15b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti15a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ciom15/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lass12b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/char18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ciom14c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco13b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/boom12/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/chun18b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/calendar/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem17/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/software/cirrus/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/software/cirruslungs/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ginn13/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr18b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/members/colin-jacobs/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/colofon/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/rudy14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/hall18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ritc15/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ritc16/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco12/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco11b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco11/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti15/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco15a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco11c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/scho13a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/contact/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco19b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/scho14d/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/scho15a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/home/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/boom12a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/hump18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/litj14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/zeel19/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/meij18b/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/2020/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -708,83 +296,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ginn14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lafe08/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem18c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/buka17/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/hump20/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lass14/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco19/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/software/grand-challenge/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/members/haimasree-bhattacharya/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/members/harm-van-zeeland/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/oei12/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/stoy18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/pate19/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/riel13/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco12b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr18e/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/scho14f/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/riel13a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/grob19b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/ares18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/ares18a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -792,31 +308,27 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/james-meakin/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/beic16/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/joep-kamps/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/bili19/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/karel-gerbrands/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/boom12/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv18a/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/boom12a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv19a/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/buka17/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv19/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/char18/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -828,7 +340,7 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/riel17/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/chun18/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -836,43 +348,31 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/chun18b/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem18a/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ciom14a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem19b/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ciom14c/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/mike-overkamp/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ciom15/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/miriam-groeneveld/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ciom16b/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem19/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ciom17a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv17a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco13a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mets12e/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr18f/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -880,11 +380,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/riel15/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ginn13/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/riel19/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ginn14/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -896,63 +396,11 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/software/ophthalmology_workstation/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/grob19b/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco12c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/hump17/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/404/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/members/paul-konstantin-gerke/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco10d/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr18d/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr19/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/tamm18/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lief19a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/wink15a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/presentations/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/projects/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/hall18/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -960,7 +408,179 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/hump17/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/hump18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/hump20/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco10d/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco10e/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco10f/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco11/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco11b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco11c/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco12/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco12b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco12c/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco13/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco13a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco13b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco14/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco14a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco15/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco15a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco15b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco19/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco19a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/jaco19b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/james-meakin/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lafe08/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lass12a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lass12b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lass14/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lass15/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem15/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem17/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem18c/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem19/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem19b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/leem20/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/less20/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/lief19a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/litj14/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/mann16c/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/meij17a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/meij18b/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/mets12e/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -972,55 +592,99 @@
     <priority>0.6</priority>
   </url>
   <url>
+    <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/miriam-groeneveld/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/james-meakin/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/harm-van-zeeland/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/mike-overkamp/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/colin-jacobs/no-year-headings/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/oei12/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/pate17a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/pate19/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
     <loc>https://rse.diagnijmegen.nl/publications/paul-konstantin-gerke/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/riel13/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/riel13a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/riel15/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti16/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/riel17/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ciom16b/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/riel19/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/xie20/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ritc15/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-webapps/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ritc15a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-infrastructure/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/ritc16/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/research-software-engineer-digital-pathology/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/rudy14/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/rita-bylsma/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/meij17a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/lass15/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/scho13a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -1028,39 +692,19 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/sil-van-de-leemput/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/scho14c/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/members/sjoerd-kerkstra/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/scho14d/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/software/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/scho14f/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/software/sol/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco15/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem18b/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/leem20/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/silv17/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/members/sven-lafebre/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/scho15a/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -1068,51 +712,15 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/jaco10e/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/bili19/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/beic16/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/thesis-gallery/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/scho14c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ares18a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/ciom17a/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/schr20c/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
     <loc>https://rse.diagnijmegen.nl/publications/schr17/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/vacancies/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/schr18/</loc>
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/seti17/</loc>
-    <priority>0.6</priority>
-  </url>
-  <url>
-    <loc>https://rse.diagnijmegen.nl/publications/chun18/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/schr18b/</loc>
     <priority>0.6</priority>
   </url>
   <url>
@@ -1120,7 +728,111 @@
     <priority>0.6</priority>
   </url>
   <url>
-    <loc>https://rse.diagnijmegen.nl/publications/mann16c/</loc>
+    <loc>https://rse.diagnijmegen.nl/publications/schr18d/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr18e/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr18f/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr19/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr20/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr20a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/schr20c/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti14/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti15/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti15a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti16/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti17/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/seti18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sil-van-de-leemput/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv17/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv17a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv18a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv19/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/silv19a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sjoerd-kerkstra/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/stoy18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/sven-lafebre/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/tamm18/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/wink15a/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/xie20/</loc>
+    <priority>0.6</priority>
+  </url>
+  <url>
+    <loc>https://rse.diagnijmegen.nl/publications/zeel19/</loc>
     <priority>0.6</priority>
   </url>
 </urlset>
