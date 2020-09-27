@@ -5,11 +5,11 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 
-    <link rel="canonical" href="https://rse.diagnijmegen.nl/publications/riel13a/">
+    <link rel="canonical" href="https://rse.diagnijmegen.nl/publications/hump17/">
 
 
 
-    <title>Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences - DIAG Research Software Engineering</title>
+    <title>Organ detection in thorax abdomen CT using multi-label convolutional neural networks - DIAG Research Software Engineering</title>
 
 
     <!-- Search Engine -->
@@ -17,19 +17,19 @@
     <meta name="image" content="">
 
     <!-- Schema.org for Google -->
-    <meta itemprop="name" content="Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences - DIAG Research Software Engineering">
+    <meta itemprop="name" content="Organ detection in thorax abdomen CT using multi-label convolutional neural networks - DIAG Research Software Engineering">
     <meta itemprop="description" content="">
     <meta itemprop="image" content="">
 
     <!-- Twitter -->
     <meta name="twitter:card" content="summary">
-    <meta name="twitter:title" content="Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences - DIAG Research Software Engineering">
+    <meta name="twitter:title" content="Organ detection in thorax abdomen CT using multi-label convolutional neural networks - DIAG Research Software Engineering">
     <meta name="twitter:description" content="">
     <meta name="twitter:creator" content="@diagnijmegen">
     <meta name="twitter:image:src" content="">
 
     <!-- Open Graph general (Facebook, Pinterest & Google+) -->
-    <meta property="og:title" content="Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences - DIAG Research Software Engineering">
+    <meta property="og:title" content="Organ detection in thorax abdomen CT using multi-label convolutional neural networks - DIAG Research Software Engineering">
     <meta property="og:description" content="">
     <meta property="og:image" content="">
     <meta property="og:site_name" content="DIAG Research Software Engineering">
@@ -256,24 +256,26 @@
 
 
           <li class="breadcrumb-item"><a href="https://rse.diagnijmegen.nl/publications/">Publications</a></li>
-        <li class="breadcrumb-item">Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences</li>
+        <li class="breadcrumb-item">Organ detection in thorax abdomen CT using multi-label convolutional neural networks</li>
       </ol>
     </nav>
 </div>
 
 <div class="container">
-  <h1 class="page-title">Intra- and inter-reader variability of pulmonary nodule classification according to the Fleischner guidelines: clinical consequences</h1>
+  <h1 class="page-title">Organ detection in thorax abdomen CT using multi-label convolutional neural networks</h1>
 
   <p class="lead">
-    S. van Riel,     E. van Rikxoort,     C. Jacobs,     S. Schalekamp,     M. Prokop,     B. van Ginneken,     P. de Jong,     E. Scholten,     H. Gietema and C. Schaefer-Prokop  </p>
+    G. Humpire  Mamani,     A. Setio,     B. van Ginneken and C. Jacobs  </p>
 
 
-  <p>Annual Meeting of the Radiological Society of North America 2013.</p>
+  <p>Medical Imaging 2017;10134.</p>
 
   <p>
+    <a href=https://doi.org/10.1117/12.2254349>DOI</a>
 
 
 
+    <a href=https://scholar.google.com/scholar?cites=11043862804825340240>Cited by ~10</a>
 
 
 
@@ -281,7 +283,7 @@
 
 
   <div class="page-content">
-    <p>PURPOSE Recently published recommendations by the Fleischner Society differentiate between non-solid and partsolid nodules. For the latter follow up or invasive diagnostic procedures are recommended depending on the size of the solid core. For solid nodules, different recommendations apply. We evaluated inter- and intra-reader variability of nodule classification and the impact on patient management. METHOD AND MATERIALS 20 part-solid, 10 non-solid and 10 solid nodular lesions were randomly selected from the NELSON screening trial. Data had been acquired using a low dose (16x0.75mm, 120-140 kVp, 30 mAs) protocol. Complete CTs were shown with axial and coronal projections with 1mm section thickness. Readers could interactively scroll through the scans, use magnification, windowing and manual calibre measurements as warranted. Four readers of varying experience were asked to classify the lesions as solid (1), part-solid with a core &gt; 5mm and &lt; 5mm, respectively (2 and 3), or as non-solid (4). All readings were done twice in six sessions, in which all permutations of nodules and section thicknesses were presented in different random orders. Inter- and intra-reader agreement were calculated using CohenAC/a,!a,,C/s kappa statistics. To evaluate possible consequences on patient management, the number of differences between assigned scores of 1 or 2 (invasive diagnosis) and scores of 3 or 4 (follow up) were calculated. All results stated are averaged over all reading sessions. RESULTS Inter-reader agreement was low with mean kappa of 0.33 (range 0.02-0.58). Intra-reader agreement was moderate with mean kappa 0.54 (range 0.31-0.72). Patient management would have differed in 27% caused by interreader disagreement, and would have changed in 8% caused by intrareader variability. 28% of all nodules were uniformly classified over all reading sessions. Of these, 18% were classified as solid and 73% as non-solid. CONCLUSION Inter- and intra-reader agreement are low and moderate for the classification of pulmonary nodules according to Fleischner criteria if pure visual analysis is used. This may affect patient management. CLINICAL RELEVANCE/APPLICATION Variability in nodule classification may have consequences on patient management; use of digital analysis tools appears to be necessary to improve classification.</p>
+    <p>A convolutional network architecture is presented to determine bounding boxes around six organs in thorax-abdomen CT scans. A single network for each orthogonal view determines the presence of lungs, kidneys, spleen and liver. We show that an architecture that takes additional slices before and after the slice of interest as an additional input outperforms an architecture that processes single slices. From the slice-based analysis, a bounding box around the structures of interest can be computed. The system uses 6 convolutional, 4 pooling and one fully connected layer and uses 333 scans for training and 110 for validation. The test set contains 110 scans. The average Dice score of the proposed method was 0.95 and 0.95 for the lungs, 0.59 and 0.58 for the kidneys, 0.83 for the liver and 0.63 for the spleen. This paper shows that automatic localization of organs using multi-label convolution neural networks is possible. This architecture can likely be used to identify other organs of interest as well.</p>
   </div>
 
 
@@ -303,7 +305,7 @@
                             <use xlink:href="#icon-twitter"></use>
                         </svg></a>&nbsp;
                     
-                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-rse/content/pages/publications/riel13a.md" title="Edit on Github">
+                    <a href="https://github.com/diagnijmegen/website-content/edit/master/website-rse/content/pages/publications/hump17.md" title="Edit on Github">
                         <svg class="nav-icon svg-icon">
                             <use xlink:href="#icon-write"></use>
                         </svg></a>&nbsp;
